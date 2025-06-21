@@ -1,1 +1,4 @@
-site_name: xinzai
+site_name: 鑫仔的wb
+nav:
+  - Home: index.md
+  - About: about.md
