@@ -1,4 +1,9 @@
-site_name: 鑫仔的wb
+site_name: wb of xinzai
 nav:
   - Home: index.md
   - About: about.md
+  - Plant: plant.md
+  - Study: study.md
+  - Friend: friend.md
+  - Blogs: blogs.md
+theme: readthedocs
