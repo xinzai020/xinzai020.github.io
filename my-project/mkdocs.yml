@@ -6,4 +6,4 @@ nav:
   - Study: study.md
   - Friend: friend.md
   - Blogs: blogs.md
-theme: readthedocs
+theme: mkdocs
